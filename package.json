@@ -1,0 +1,15 @@
+{
+  "name": "cymailslurp",
+  "version": "1.0.0",
+  "description": "Automated email tests with Mailslurp",
+  "main": "index.js",
+  "scripts": {
+    "open": "npx cypress open"
+  },
+  "author": "David Lima",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.17.4",
+    "cypress-mailslurp": "^1.7.0"
+  }
+}
