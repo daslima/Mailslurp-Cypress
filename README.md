@@ -19,7 +19,7 @@ npm install
 In your Cypress project, in the **cypress.config.js** file, create an environment variable and enter the MailSlurp API KEY
 
 
-## Running the tests
+## 🏁 Running the tests
 
 Running tests using the Cypress interface
 ```
